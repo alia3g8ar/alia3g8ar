@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Ali Asghar, a passionate programmer. I fill my free time with sports, listening to podcasts and tutorials, learning languages, and reading books. I enjoy sharing information and interacting with others. Additionally, I am interested in personal development and strive to make progress in this area. Moreover, I am also interested in trading and currently learning about it. Overall, I love learning and am seeking continuous growth and improvement in my life.<br><br>If you're interested, we can discuss each of these topics further and share our experiences with each other.
+Hello, I am AliAsghar, a passionate programmer. I fill my free time with sports, listening to podcasts and tutorials, learning languages, and reading books. I enjoy sharing information and interacting with others. Additionally, I am interested in personal development and strive to make progress in this area. Moreover, I am also interested in trading and currently learning about it. Overall, I love learning and am seeking continuous growth and improvement in my life.<br><br>If you're interested, we can discuss each of these topics further and share our experiences with each other.
 
 
 ## 🌐 Socials:
