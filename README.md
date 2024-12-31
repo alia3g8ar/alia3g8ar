@@ -4,7 +4,7 @@ Hello, I am AliAsghar, a passionate programmer. I fill my free time with sports,
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/⚡🚀-aliasghar-ariahimehr-2b4733262) 
-[![Telegram : @alia3g8ar](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white) 
+![Telegram : @alia3g8ar](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white) 
 
 
 # 💻 Tech Stack:
